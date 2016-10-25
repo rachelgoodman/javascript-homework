@@ -1,0 +1,15 @@
+<!doctype html>
+<head>
+</head>
+<body>
+  <script>
+  // numbers 1-4
+  var x = 5;
+  console.log(x);
+  var y = 3;
+  console.log(y);
+  var z = x * y;
+  console.log(z);
+  /* committed to Github*/
+  </script>
+</body>
