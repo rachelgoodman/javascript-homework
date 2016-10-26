@@ -10,6 +10,24 @@
   console.log(y);
   var z = x * y;
   console.log(z);
+  var a = 2;
+  console.log(a);
+  var b = 1;
+  console.log(b);
+  var c = a + b;
+  console.log(c);
+  var d = 9;
+  console.log(d);
+  var e = 7;
+  console.log(e);
+  var f = d - e;
+  console.log(f);
+  var g = 10;
+  console.log(g);
+  var h = 5;
+  console.log(h);
+  var i = g / h;
+  console.log(i);
   /* committed to Github*/
   </script>
 </body>
