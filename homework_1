@@ -3,7 +3,7 @@
 </head>
 <body>
   <script>
-  // numbers 1-4
+  // math exercises
   var x = 5;
   console.log(x);
   var y = 3;
@@ -28,6 +28,20 @@
   console.log(h);
   var i = g / h;
   console.log(i);
-  /* committed to Github*/
+  /* completion of math exercises*/
+  // string exercises
+  var firstName = "Rachel";
+  console.log(firstName);
+  var middleName = "Eve";
+  console.log(middleName);
+  var lastName = "Goodman";
+  console.log(lastName);
+  var name = firstName + " " + middleName + " " + lastName;
+  console.log(name);
+  var statement = "my name is " + name;
+  console.log(statement);
+  var greeting = "Hi, " + statement;
+  console.log(greeting);
+  /* completion of string exercises*/
   </script>
 </body>
