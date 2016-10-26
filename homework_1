@@ -43,5 +43,21 @@
   var greeting = "Hi, " + statement;
   console.log(greeting);
   /* completion of string exercises*/
+  // function exercises
+  function squareIt(number) {
+    console.log(number * number);
+  }
+  squareIt(5);
+  squareIt(10);
+  squareIt(4);
+
+  function makeName(first, middle, last) {
+    return first + " " + middle + " " + last;
+  }
+  makeName("Rachel", "Eve", "Goodman");
+  makeName("Jacob", "Isaac", "Goodman");
+  makeName("Shaina", "Leah", "Goodman");
+
+  /* completion of function exercises*/
   </script>
 </body>
